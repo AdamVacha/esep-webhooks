@@ -840,11 +840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/catty/workspace/CIS/esep-webhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+      "projectUniqueName": "/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
       "projectName": "EsepWebhook",
-      "projectPath": "/home/catty/workspace/CIS/esep-webhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+      "projectPath": "/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
       "packagesPath": "/home/catty/.nuget/packages/",
-      "outputPath": "/home/catty/workspace/CIS/esep-webhook/EsepWebhook/src/EsepWebhook/obj/",
+      "outputPath": "/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/catty/.nuget/NuGet/NuGet.Config"

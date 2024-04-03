@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "myFQiwq2tb2HhcE/oOEAtGPoU5gsLi2a74UzuMLhVQdNF3HR/VG112ypC5nVc4kxl5j9fegAdIJhQopJXG0MoA==",
+  "dgSpecHash": "4cHV29QOSdm9xXVzI/AaUH6rS1Fk4FRNkja9rUrZ1mKFSQqehHIsRlywXB/Fp5K+RkoiNCQJTkUCBe7OkbqF6g==",
   "success": true,
-  "projectFilePath": "/home/catty/workspace/CIS/esep-webhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "projectFilePath": "/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/home/catty/.nuget/packages/amazon.lambda.apigatewayevents/2.7.0/amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
     "/home/catty/.nuget/packages/amazon.lambda.applicationloadbalancerevents/2.2.0/amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512",

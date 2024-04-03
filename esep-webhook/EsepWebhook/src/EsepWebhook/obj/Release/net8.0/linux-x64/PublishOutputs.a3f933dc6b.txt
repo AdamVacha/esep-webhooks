@@ -1,0 +1,11 @@
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.AspNetCoreServer.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/home/catty/workspace/esep-webhooks/esep-webhook/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
